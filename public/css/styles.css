@@ -282,9 +282,10 @@ body {
 
 .social-media-heading {
   padding-top: 70px;
+  padding-bottom: 10px;
   font-family: "Montserrat-black";
   font-style: italic;
-  font-size: 34px;
+  font-size: 32px;
 }
 
 .social-media-img {
