@@ -284,7 +284,7 @@ body {
   padding-top: 70px;
   font-family: "Montserrat-black";
   font-style: italic;
-  font-size: 36px;
+  font-size: 34px;
 }
 
 .social-media-img {
@@ -336,7 +336,10 @@ body {
     margin: 20px;
   }
 
-
+.link{
+  font-size: 19px;
+}
+  
 }
 
 @media(min-width:600px) and (max-width:1023px) {
