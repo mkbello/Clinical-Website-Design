@@ -1,0 +1,450 @@
+body {
+  background-color: #131313;
+  color: #fffafa;
+}
+
+
+.navbar {
+  background-color: #131313 !important;
+  padding: 20px;
+}
+
+.nav-link {
+  font-family: 'Abyssinica SIL', serif;
+  text-align: center;
+}
+
+.navbar .nav-item:hover .nav-link {
+  color: #C2BFBA;
+}
+
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23fffafa' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+
+.about-us {
+  margin-top: 80px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 39px;
+}
+
+.about-details {
+  margin: 40px;
+}
+
+.about-heading {
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.about-paragragh {
+  font-weight: light;
+  color: #C2BFBA;
+  font-size: 16px;
+}
+
+.why-choose-us-heading {
+  font-size: 23px;
+  font-weight: normal;
+  margin: 40px;
+}
+
+.why-choose-us {
+  margin-top: 10px;
+  font-size: 20px;
+  color: #C2BFBA;
+}
+
+.carousel {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.carousel-item img {
+  border-radius: 20px;
+}
+
+
+.explore {
+  font-family: "Montserrat-black";
+  color: #fff;
+  font-size: 50px;
+  font-style: italic;
+  padding-top: 190px;
+  text-align: center;
+}
+
+.service-heading {
+  font-size: 25px;
+  font-weight: normal;
+  margin-top: 25px;
+}
+
+.services {
+  margin-top: 80px;
+  margin-bottom: 45px;
+  text-align: center;
+  font-size: 39px;
+}
+
+.flex-item {
+  text-align: center;
+}
+
+.service-paragraph {
+  font-weight: light;
+  color: #C2BFBA;
+  padding-left: 35px;
+  padding-right: 35px;
+  font-size: 16px;
+}
+
+.service-img1,
+.service-img2,
+.service-img3,
+.service-img4 {
+  border-radius: 30px;
+}
+
+
+.section1 {
+  background-image: url("https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNsaW5pY2FsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60 ");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 650px;
+  background-attachment: fixed;
+
+}
+
+.section5 {
+  background-image: url("https://media.istockphoto.com/photos/microscope-with-lab-glassware-picture-id909908830?k=20&m=909908830&s=612x612&w=0&h=yO-zLAYbbv8dJsp7nfq3u9GFfPAqxXrjndNkZcAZru0=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 370px;
+  background-attachment: fixed;
+}
+
+
+.section3 {
+  margin-top: 65px;
+  background-image: url("https://media.istockphoto.com/photos/assistant-of-reproductive-medicine-clinic-fertilizing-egg-outside-picture-id879832484?k=20&m=879832484&s=612x612&w=0&h=otsDnMa37-XVUxM0SuCX8SulGCUEmvdk-cyxe0YwDOA=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 250px;
+  background-attachment: fixed;
+}
+
+.section6 {
+  margin-top: 65px;
+  background-image: url("https://media.istockphoto.com/photos/assistant-of-reproductive-medicine-clinic-fertilizing-egg-outside-picture-id879832484?k=20&m=879832484&s=612x612&w=0&h=otsDnMa37-XVUxM0SuCX8SulGCUEmvdk-cyxe0YwDOA=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 250px;
+  background-attachment: fixed;
+}
+
+.section1-name {
+  font-family: "Montserrat-black";
+  color: #fff;
+  font-size: 50px;
+  font-style: italic;
+  padding-top: 300px;
+  padding-left: 20px;
+}
+
+.section3-name {
+  font-family: 'Abyssinica SIL', serif;
+  text-align: center;
+  color: #131313;
+  font-style: italic;
+  padding-top: 70px;
+  font-size: 46px;
+}
+
+.section6-name {
+  font-family: 'Abyssinica SIL', serif;
+  text-align: center;
+  color: #131313;
+  font-style: italic;
+  padding-top: 70px;
+  font-size: 46px;
+}
+
+.section3-motto {
+  text-align: center;
+  font-family: 'Abyssinica SIL', serif;
+  font-style: italic;
+  font-size: 21px;
+  color: #131313;
+}
+
+.section6-motto {
+  text-align: center;
+  font-family: 'Abyssinica SIL', serif;
+  font-style: italic;
+  font-size: 21px;
+  color: #131313;
+}
+
+.section1-motto {
+  font-family: 'Abyssinica SIL', serif;
+  font-style: italic;
+  font-size: 20px;
+  color: #fff;
+  padding-left: 20px;
+}
+
+.section2 {
+  margin-top: 30px;
+}
+
+.section4 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.linear {
+  background: linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5)100%);
+  width: 100%;
+  height: 100%;
+}
+
+
+.linear2 {
+  background: linear-gradient(rgba(232, 237, 255, 0.9), rgba(239, 254, 255, 0.9)40%, rgba(254, 255, 244, 0.3)70%, rgba(255, 255, 255, 0.12));
+  width: 100%;
+  height: 100%;
+}
+
+.linear3 {
+  background: linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5)100%);
+  width: 100%;
+  height: 100%;
+}
+
+.more-enquiries {
+  background-color: #fffafa;
+  font-family: "Montserrat", sans-serif;
+  color: #1d1d1d;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.custom-btn {
+  background-color: #fffafa;
+  font-family: "Montserrat", sans-serif;
+  color: #1d1d1d;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background-color: #C2BFBA;
+  color: #fffafa;
+}
+
+.link {
+  color: #fffafa;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.link:hover {
+  color: #C2BFBA;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.contact-div {
+  margin-top: 130px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+
+
+.social-media-heading {
+  padding-top: 70px;
+  font-family: "Montserrat-black";
+  font-style: italic;
+  font-size: 36px;
+}
+
+.social-media-img {
+  background-image: url("https://www.socra.org/blog/wp-content/uploads/2019/07/bannerNew1-1024x513.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin-top: 70px;
+  height: 250px;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+.contact-heading1 {
+  font-size: 45px;
+  margin-bottom: 40px;
+}
+
+
+.contact-heading2 {
+  margin-bottom: 30px;
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+  padding-top: 33px;
+  padding-bottom: 33px;
+  color: #C2BfBA;
+}
+
+
+@media(max-width: 599px) {
+
+  .service-img1,
+  .service-img2,
+  .service-img3,
+  .service-img4 {
+    width: 290px;
+    height: 230px;
+  }
+
+  .carousel-item img {
+    width: 320px;
+    height: 230px;
+  }
+
+  .about-details {
+    margin: 20px;
+  }
+
+
+}
+
+@media(min-width:600px) and (max-width:1023px) {
+
+  .service-img1,
+  .service-img2,
+  .service-img3,
+  .service-img4 {
+    width: 370px;
+    height: 260px;
+  }
+
+  .carousel-item img {
+    width: 390px;
+    height: 280px;
+  }
+
+  .nav-link {
+    font-size: 18px;
+  }
+
+  .section1-motto {
+    font-size: 22px;
+    padding-left: 30px;
+  }
+
+  .section1-name {
+    font-size: 60px;
+    padding-left: 30px;
+  }
+
+  .explore {
+    font-size: 59px;
+  }
+
+  .service-paragraph {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .social-media-heading {
+    font-size: 39px;
+  }
+
+}
+
+
+@media(min-width:1024px) {
+
+  .service-img1,
+  .service-img2,
+  .service-img3,
+  .service-img4 {
+    width: 330px;
+    height: 270px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .flex-container {
+    display: grid;
+    margin-left: 100px;
+    margin-right: 100px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .carousel-item img {
+    width: 390px;
+    height: 280px;
+  }
+
+  .nav-link {
+    font-size: 20px;
+  }
+
+  .section1-motto {
+    font-size: 23px;
+    padding-left: 46px;
+  }
+
+  .section1-name {
+    font-size: 63px;
+    padding-left: 46px;
+  }
+
+  .section3-name {
+    font-size: 48px;
+  }
+
+  .section3-motto {
+    font-size: 23px;
+  }
+
+  .section6-name {
+    font-size: 48px;
+  }
+
+  .section6-motto {
+    font-size: 23px;
+  }
+
+  .explore {
+    font-size: 59px;
+  }
+
+  .social-media-heading {
+    font-size: 42px;
+  }
+
+}
